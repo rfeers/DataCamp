@@ -3,6 +3,8 @@
 - MCP refers to the Model Context Protocol, an open standard that allows AI applications to 
 reliably and securely connect to external tools and data sources like databases, 
 search engines, and local files.
+
+You can find more information about it at: https://docs.claude.com/en/docs/claude-code/mcp
 """
 
 from claude_agent_sdk import ClaudeSDKClient, ClaudeAgentOptions, AssistantMessage, ToolUseBlock

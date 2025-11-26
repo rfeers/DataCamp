@@ -17,7 +17,7 @@ async def main():
     options = ClaudeAgentOptions(
         #system_prompt="You are a website help assistant.",
         #permission_mode='acceptEdits',
-        #cwd="/Users/josepferrersanchez/PRO/DataCamp/claude_agent_SDK",
+        #cwd="/Users/josepferrersanchez/PRO/DataCamp/clau",
         model=MODEL
         )
 
